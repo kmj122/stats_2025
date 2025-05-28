@@ -1,1 +1,2 @@
 !git clone "https://github.com/kmj122/stats_2025" 
+import pandas as pd
