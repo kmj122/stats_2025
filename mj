@@ -1,3 +1,6 @@
 !git clone "https://github.com/kmj122/stats_2025" 
 import pandas as pd
 샤피로 테스트
+import numpy as np # numeric calculation
+import pandas as pd # data analysis
+from scipy.stats import shapiro # stats
